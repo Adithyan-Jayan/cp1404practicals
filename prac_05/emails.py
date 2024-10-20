@@ -1,3 +1,6 @@
+"""
+CP1404/CP5632 Practical
+"""
 def extract_name_from_email(email):
     name_part = email.split('@')[0]
 
