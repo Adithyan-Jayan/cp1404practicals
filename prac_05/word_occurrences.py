@@ -1,3 +1,6 @@
+"""
+CP1404/CP5632 Practical
+"""
 def count_word_occurrences():
     text = input("Text: ")
 
